@@ -1,5 +1,5 @@
-# Desafio sobre Git/GitHub da DIO e GFT Start
-Desafio de Projeto sobre Git/Github
+
+# Sobre Git/Github
 
 # Comandos práticos para uso do Git/GitHub.
 
